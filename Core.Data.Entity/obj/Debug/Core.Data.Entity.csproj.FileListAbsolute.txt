@@ -1,0 +1,27 @@
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\bin\Debug\Core.Data.Entity.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\bin\Debug\Core.Data.Entity.pdb
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLite-net.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLite-net.xml
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.pdb
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.csprojResolveAssemblyReference.cache
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\Core.Data.Entity.dll
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\Core.Data.Entity.pdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLite-net.dll
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLitePCLRaw.core.dll
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\SQLite-net.xml
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.dll
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.pdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.dll.mdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\Core.Data.Entity.dll.mdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.dll.mdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\Core.Data.Entity.dll.mdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.dll.mdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\Core.Data.Entity.dll.mdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\obj\Debug\Core.Data.Entity.dll.mdb
+C:\git\Xamarin\PortableSqliteExample\Core.Data.Entity\bin\Debug\Core.Data.Entity.dll.mdb

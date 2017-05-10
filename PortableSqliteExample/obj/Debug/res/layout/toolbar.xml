@@ -1,0 +1,1 @@
+<android.support.v7.widget.Toolbar android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="4dp" android:background="@color/colorPrimary" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"></android.support.v7.widget.Toolbar>

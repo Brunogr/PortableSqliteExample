@@ -1,0 +1,53 @@
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\PortableSqliteExample.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\PortableSqliteExample.pdb
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\PortableSqliteExample.PortableSqliteExample.apk
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\PortableSqliteExample.PortableSqliteExample-Signed.apk
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\Core.Data.Entity.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\Core.Data.Sqlite.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\SQLite-net.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\Core.Data.Entity.pdb
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\Core.Data.Sqlite.pdb
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\SQLite-net.xml
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\SQLite-net.dll.mdb
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\PortableSqliteExample.Android.csprojResolveAssemblyReference.cache
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\PortableSqliteExample.dll
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\PortableSqliteExample.pdb
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\android\bin\PortableSqliteExample.PortableSqliteExample.apk
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\res\layout\main.xml
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\res\values\strings.xml
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\res\drawable\icon.png
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\res\layout\listitem.xml
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\R.cs.flag
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\uploadflags.txt
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\PortableSqliteExample.dll.mdb
+C:\Users\b.roldao\documents\visual studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\bin\Debug\PortableSqliteExample.dll.mdb
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\b.roldao\Documents\Visual Studio 2017\Projects\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\PortableSqliteExample.Android.csprojResolveAssemblyReference.cache
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\git\Xamarin\PortableSqliteExample\PortableSqliteExample\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
