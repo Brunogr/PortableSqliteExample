@@ -17,11 +17,7 @@ namespace Core.Data.Sqlite
         public SQLiteConnection database;
 
         public string path;
-
-        /// <summary>
-        /// Initializes a new instance of the <see cref="Tasky.DL.TaskDatabase"/> TaskDatabase. 
-        /// if the database doesn't exist, it will create the database and all the tables.
-        /// </summary>
+        
         public SqliteDatabase(SQLiteConnection conn)
         {
             database = conn;
@@ -58,14 +54,10 @@ namespace Core.Data.Sqlite
             lock (locker)
             {
                 return database.Table<T>().FirstOrDefault(x => x.Id == id);
-                // Following throws NotSupportedException - thanks aliegeni
-                //return (from i in Table<T> ()
-                //        where i.ID == id
-                //        select i).FirstOrDefault ();
             }
         }
 
-        public int SaveItem(T item)
+        public long SaveItem(T item)
         {
             lock (locker)
             {
@@ -81,7 +73,7 @@ namespace Core.Data.Sqlite
             }
         }
 
-        public int DeleteItem(int id)
+        public long DeleteItem(long id)
         {
             lock (locker)
             {

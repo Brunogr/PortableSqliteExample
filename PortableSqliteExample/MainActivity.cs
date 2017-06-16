@@ -15,13 +15,14 @@ using Android.Views.InputMethods;
 using Android.Content;
 using static Android.Widget.TextView;
 using Android.Support.V4.Content;
+using PortableSqliteExample.Custom;
 
 namespace PortableSqliteExample
 {
     [Activity(Label = "PortableSqliteExample", MainLauncher = true, Icon = "@drawable/icon")]//, Theme = "@style/Theme.AppCompat.Light.NoActionBar")]
     public class MainActivity : AppCompatActivity, IOnItemClickListener, IOnEditorActionListener
     {
-        private int _selectedId { get; set; }
+        private long _selectedId { get; set; }
         private Android.Support.V7.Widget.Toolbar _Toolbar { get; set; }
         private IMenuItem _SearchAction;
         private bool isSearchOpened = false;
@@ -189,9 +190,8 @@ namespace PortableSqliteExample
                 {
                     ListView list = FindViewById<ListView>(Resource.Id.myListView);
 
-                    var userList = new List<System.String>();
-                    users.ForEach(user => userList.Add(string.Format(user.Id + "-" + user.Name + " - " + user.Email)));
-                    list.Adapter = new ArrayAdapter<System.String>(this, Resource.Layout.ListItem, Resource.Id.textViewListItem, userList.ToArray());
+                    var userAdapter = new UserAdapter(this, users);                                        
+                    list.Adapter = userAdapter;
 
                     list.OnItemClickListener = this;
                 }
@@ -206,9 +206,11 @@ namespace PortableSqliteExample
         {
             FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
 
-            string field = parent.GetItemAtPosition(position).ToString();
+            _selectedId = parent.GetItemIdAtPosition(position);
 
-            _selectedId = Convert.ToInt32(field.Split('-').FirstOrDefault());
+            //string field = parent.GetItemAtPosition(position).ToString();
+
+            //_selectedId = Convert.ToInt32(field.Split('-').FirstOrDefault());
 
             fab.Visibility = Android.Views.ViewStates.Visible;
 

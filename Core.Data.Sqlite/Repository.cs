@@ -28,27 +28,22 @@ namespace Core.Data.Sqlite
             return db.GetItems();
         }
 
-        //public async Task<IEnumerable<T>> GetAsync()
-        //{
-        //    return await db.GetItems();
-        //}
-
         public IEnumerable<T> GetByFilters(Expression<Func<T, bool>> aFilters)
         {
             return db.GetItems(aFilters);
         }
 
-        public int Save(T item)
+        public long Save(T item)
         {
             return db.SaveItem(item);
         }
 
-        public int Delete(int id)
+        public long Delete(long id)
         {
             return db.DeleteItem(id);
         }
 
-        public int DeleteAll()
+        public long DeleteAll()
         {
             return db.DeleteAll();
         }

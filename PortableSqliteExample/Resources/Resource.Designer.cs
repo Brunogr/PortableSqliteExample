@@ -2216,8 +2216,8 @@ namespace PortableSqliteExample
 			// aapt resource value: 0x7f070043
 			public const int action_mode_close_button = 2131165251;
 			
-			// aapt resource value: 0x7f0700a3
-			public const int action_search = 2131165347;
+			// aapt resource value: 0x7f0700a5
+			public const int action_search = 2131165349;
 			
 			// aapt resource value: 0x7f07008b
 			public const int action_text = 2131165323;
@@ -2408,8 +2408,8 @@ namespace PortableSqliteExample
 			// aapt resource value: 0x7f070048
 			public const int list_item = 2131165256;
 			
-			// aapt resource value: 0x7f0700a2
-			public const int masked = 2131165346;
+			// aapt resource value: 0x7f0700a4
+			public const int masked = 2131165348;
 			
 			// aapt resource value: 0x7f07008f
 			public const int media_actions = 2131165327;
@@ -2597,6 +2597,12 @@ namespace PortableSqliteExample
 			// aapt resource value: 0x7f070051
 			public const int textSpacerNoTitle = 2131165265;
 			
+			// aapt resource value: 0x7f0700a2
+			public const int textUserEmail = 2131165346;
+			
+			// aapt resource value: 0x7f0700a1
+			public const int textUserName = 2131165345;
+			
 			// aapt resource value: 0x7f070081
 			public const int textViewListItem = 2131165313;
 			
@@ -2648,8 +2654,8 @@ namespace PortableSqliteExample
 			// aapt resource value: 0x7f07000e
 			public const int view_offset_helper = 2131165198;
 			
-			// aapt resource value: 0x7f0700a1
-			public const int visible = 2131165345;
+			// aapt resource value: 0x7f0700a3
+			public const int visible = 2131165347;
 			
 			// aapt resource value: 0x7f070027
 			public const int withText = 2131165223;
@@ -2901,6 +2907,9 @@ namespace PortableSqliteExample
 			
 			// aapt resource value: 0x7f03003f
 			public const int Toolbar = 2130903103;
+			
+			// aapt resource value: 0x7f030040
+			public const int UserListItem = 2130903104;
 			
 			static Layout()
 			{
